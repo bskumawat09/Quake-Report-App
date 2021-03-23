@@ -8,4 +8,3 @@ Android app which provides latest earthquake data using USGS API.
 ## Concepts
 - **AsynTaskLoader**
 - **HttpURLConnection**
-- Network Connectivity
